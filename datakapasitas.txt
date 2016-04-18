@@ -1,0 +1,5 @@
+Kungfu Panda 3 | 10 | 03 | 2016 | 19.00 | 10
+Kungfu Panda 3 | 11 | 03 | 2016 | 19.00 | 15
+Kungfu Panda 3 | 10 | 03 | 2016 | 21.30 | 17
+Kungfu Panda 3 | 11 | 03 | 2016 | 21.30 | 10
+Kungfu Panda 3 | 12 | 03 | 2016 | 21.30 | 10
